@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**abrkamalov/abrkamalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const my = {
+  position: 'Software Engineer',
+  skills: {
+    languages: ['JavaScript', 'HTML', 'CSS'],
+    frameworks: ['React', 'Node.js', 'Three.js'],
+    tools: ['Git', 'Agile', 'AEM', 'Tailwind', 'Next.js', 'WebSocket'],
+    concepts: ['Responsive Design', 'Database Management', 'SEO', 'Authentication'],
+  },
+  interests: ['Web Dev', 'UI/UX', 'Emerging Tech', 'Open-source', 'Scalability'],
+};
+```
